@@ -1,7 +1,7 @@
-# My Portfolio Project
+# My Github Portfolio Project
 
-## PacMen Exercise
+## Projects (w/ 'How To Run' Instructions)
 
-## Eye Exercise
+## Future Improvements
 
-## Real Time Bus Tracker
+## License Information

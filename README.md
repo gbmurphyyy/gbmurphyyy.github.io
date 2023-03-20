@@ -1,6 +1,6 @@
 # My Github Portfolio Project
 
-## Projects (w/ 'How To Run' Instructions)
+## Projects (Included with 'How To Run' Instructions)
 
 ## Future Improvements
 

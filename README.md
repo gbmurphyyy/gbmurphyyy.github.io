@@ -5,7 +5,7 @@ Enclosed within my portfolio is a reflection of my skill and experience, from th
 ['How To Run' details included within each repository]
 
 **PacMen Exercise**
-  *hi
+  hi
 
 **Eye Exercise**
 

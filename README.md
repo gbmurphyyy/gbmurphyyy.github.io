@@ -6,8 +6,6 @@ Enclosed within my portfolio is a reflection of my skill and experience, from th
 
 **PacMen Exercise**
 
--hi
-
 **Eye Exercise**
 
 **Real Time Bus Tracker**

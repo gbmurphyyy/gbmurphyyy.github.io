@@ -6,21 +6,21 @@ _['How To Run' details included within each repository]_
 
 #### PacMen Exercise ####
 
-* [PacMen Exercise - Repository]()
+* [PacMen Exercise - Repository](https://gbmurphyyy.github.io/PacMen.html)
 
 * [PacMen Exercise - README](https://github.com/gbmurphyyy/PacMenExercise)
 
 
 #### Eye Exercise ####
 
-* [Eye Exercise - Repository]()
+* [Eye Exercise - Repository](https://gbmurphyyy.github.io/Eyesss.html)
 
 * [Eye Exercise - README](https://github.com/gbmurphyyy/EyeExercise)
 
 
 #### Real Time Bus Tracker ####
 
-* [Real Time Bus Tracker - Repository]()
+* [Real Time Bus Tracker - Repository](https://gbmurphyyy.github.io/BusTracker.html)
 
 * [Real Time Bus Tracker - README](https://github.com/gbmurphyyy/RealTimeBusTracker)
 

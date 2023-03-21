@@ -1,0 +1,26 @@
+
+nav li {
+    color: #ffffff;
+    display:block;
+    text-align: left;
+    width: 150px;
+    padding-right: 1pt;
+  }
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#myPicture {
+    margin-left: 30%;
+    height: 450px;
+    width: 500px;
+}
+
+.bio {
+    text-align: center;
+}

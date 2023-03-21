@@ -4,11 +4,11 @@ Enclosed within my portfolio is a reflection of my skill and experience, from th
 ## Projects
 ['How To Run' details included within each repository]
 
-**PacMen Exercise
+**PacMen Exercise**
 
-**Eye Exercise
+**Eye Exercise**
 
-**Real Time Bus Tracker
+**Real Time Bus Tracker**
 
 ## Future Improvements
 There are currently no upcoming updates or improvements for these projects at this time.

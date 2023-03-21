@@ -29,4 +29,5 @@ _['How To Run' details included within each repository]_
 There are currently no upcoming updates or improvements for these projects at this time.
 
 ## License Information ##
-Included within each project.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+

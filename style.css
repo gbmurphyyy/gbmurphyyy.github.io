@@ -47,7 +47,8 @@ footer {
 }
 
 #myName {
-    margin-top: 30%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .bio {

@@ -1,9 +1,11 @@
 
+/* background color */ 
+
 html {
     background: #b36db3;  
 }
 
-/navigation
+/* navigation */
 
 nav li {
     color: #ffffff;
@@ -13,7 +15,7 @@ nav li {
     padding-right: 1pt;
   }
 
-/pictures
+/* pictures */
 
 #myName {
     margin-left: 17%;
@@ -34,7 +36,7 @@ nav li {
 }
 
 
-/paragraphs
+/* paragraphs */
 
 h1 {
     text-align: center;
@@ -71,7 +73,7 @@ p {
 }
 
 
-/footerpage
+/* footerpage */
 
 footer {
     background-color: #ffffff;
@@ -81,7 +83,7 @@ footer {
     margin-top: 7%;
   }
 
-/sociallinks
+/* social links */
 
 .icons {
     height: 100px;

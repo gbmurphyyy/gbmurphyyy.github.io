@@ -2,7 +2,7 @@
 Enclosed within my portfolio is a reflection of my skill and experience, from the knowledge I have grasped thus far. I have spotlighted three cooding projects that I have finished within the course and they are listed below:
 
 ## Projects ##
-_['How To Run' details included within each repository]_
+_['How To Run' details included within each project]_
 
 #### PacMen Exercise ####
 

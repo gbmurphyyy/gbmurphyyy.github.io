@@ -48,8 +48,7 @@ p {
 
 
 #myPicture {
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 40%;
     height: 450px;
     width: 500px;
 }

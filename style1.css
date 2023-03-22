@@ -11,8 +11,6 @@ nav li {
     padding-right: 1pt;
   }
 
-//formatting texts
-
 h1 {
     text-align: center;
 }
@@ -48,7 +46,6 @@ p {
     text-align: center;
 }
 
-//images
 
 #myPicture {
     margin-left: 30%;
@@ -80,7 +77,6 @@ p {
     max-width: 800px;
 }
 
-//footer
 
 footer {
     background-color: #ffffff;

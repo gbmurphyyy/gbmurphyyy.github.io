@@ -3,6 +3,86 @@ html {
     background: #b36db3;  
 }
 
+//navigation
+
+nav li {
+    color: #ffffff;
+    display:block;
+    text-align: left;
+    width: 150px;
+    padding-right: 1pt;
+  }
+
+//pictures
+
+#myName {
+    margin-left: 17%;
+}
+
+#myPicture {
+    margin-left: 33%;
+    height: 450px;
+    width: 500px;
+}
+
+#imgHome {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    max-width: 800px;
+}
+
+
+//paragraphs
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.hello {
+    text-align: center;
+}
+
+.bio {
+    text-align: center;
+}
+
+.lead {
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    margin-top: 2%;
+}
+
+.end {
+    text-align: center;
+}
+
+
+//footerpage
+
+footer {
+    background-color: #ffffff;
+    height: 50%;
+    width: 50%;
+    margin-left: 37%;
+    margin-top: 7%;
+  }
+
+//socialending
+
 .icons {
     height: 100px;
     width: 100px;
@@ -16,40 +96,4 @@ html {
 .icons2 {
     height: 90px;
     width: 90px;
-}
-
-
-nav li {
-    color: #ffffff;
-    display:block;
-    text-align: left;
-    width: 150px;
-    padding-right: 1pt;
-  }
-
-
-footer {
-    background-color: #ffffff;
-    height: 50%;
-    width: 50%;
-    margin-left: 37%;
-    margin-top: 7%;
-  }
-
-.lead {
-    text-align: center;
-    font-family:'Times New Roman', Times, serif;
-    margin-top: 2%;
-}
-
-.hello {
-    text-align: center;
-}
-
-#myName {
-    margin-left: 17%;
-}
-
-.bio {
-    text-align: center;
 }
